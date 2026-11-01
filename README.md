@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?style=for-the-badge&label=students%20of%20westerberg&color=cc1111&labelColor=ffffff"/></a>
+<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?style=for-the-badge&label=subscribers&extraCount=932&color=0c009d&labelColor=ffc2e8"/></a>
 </p>
