@@ -1,5 +1,5 @@
 
-<img src="https://file.garden/ama9XCwzPDRasddf/Untitled417_20261101113931.png" width="400" height="310" align="center">
+<p align="center"> <img src="https://file.garden/ama9XCwzPDRasddf/Untitled417_20261101113931.png" width="400" height="310"> </p>
 
 <p align=center> The internet angel has descended! </p>
 
