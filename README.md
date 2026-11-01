@@ -1,9 +1,9 @@
-<p align="center"> $\color{#ffb8d5}{\textsf{The internet angel has descended!}}$ </p>
+<p align="center"> $\color{#f2d0db}{\textbf{꒱ 𓏪̣̣ ̼̬︧ 𓈒ֺּׅ The internet angel has descended!}}$ </p>
 
 
 <p align="center"> <img src="https://file.garden/ama9XCwzPDRasddf/Untitled417_20261101113931.png" width="400" height="310"> </p>
 
-
+<p align="center"> $\color{#d0e8f2}{\textsf{ഒ⠀ ⠀ི۪۪ 🧬 ✚ ⠀⠀⠀Hey, cuties!⠀⠀⠀ ๑ ͡ຽ 𓈒ּ֯ ͚༷͝ᩚ⃝⠀ ໒꒱}}$ </p>
 
 
 <p align=center>
@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?style=for-the-badge&label=subscribers&color=0c009d&labelColor=ffc2e8"/></a>
+<a href="https://hits.sh/github.com/daniedibles/"><img alt="Hits" src="https://hits.sh/github.com/daniedibles.svg?style=for-the-badge&label=subscribers&color=0c009d&labelColor=ffe1f4"/></a>
 </p>
