@@ -1,20 +1,7 @@
 
-<img align="left" src="https://files.catbox.moe/ysca2i.png" width="79" height="276.666666667">
-<img align="right" src="https://files.catbox.moe/ysca2i.png" width="79" height="276.666666667">
+<img align="center" src="https://files.catbox.moe/zhvp58.png">
 
-$$\color{#fcba03}\textsf{"Heather,} \space \color{#009425}\textsf{Heather,} \space \color{#d60909}\textsf{Heather,} \space \color{#0935d6}\textsf{and someone?"}$$
-<p align="center"><img src="https://files.catbox.moe/afs84r.gif"></p>
-
-$$\color{d60909}\textsf{Honey, what 'ya waitin' for? Welcome to my candy store!}$$
-$$\color{d60909}\textsf{Time for you to prove you're not a loser anymore!}$$
-<p align="center"> <img src="https://files.catbox.moe/uhtn90.png" width="294" height="165"> </p>
-<img align="left" src="https://files.catbox.moe/fu5of2.png" width="79" height="276.666666667">
-<img align="right" src="https://files.catbox.moe/fu5of2.png" width="79" height="276.666666667">
-
-$$\color{d60909}\textsf{etoile　　✦︎　　they/xem}$$
-$$\color{#fcba03}\textsf{　　non - binary　　✦︎　　heathers fan}$$
-$$\color{009425}\textsf{artist　　✦︎　　writer}$$
-$$\color{0935d6}\textsf{c+h　　✦︎　　int　　freely (please)}$$
+<p align=center> The internet angel has descended! </p>
 
 <p align=center>
   <a href="https://github.com/kittinan/spotify-github-profile">
