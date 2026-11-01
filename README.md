@@ -1,4 +1,4 @@
-$\color{#ffb8d5}{\textsf{The internet angel has descended!}}$
+<p align="center"> $\color{#ffb8d5}{\textsf{The internet angel has descended!}}$ </p>
 
 
 <p align="center"> <img src="https://file.garden/ama9XCwzPDRasddf/Untitled417_20261101113931.png" width="400" height="310"> </p>
